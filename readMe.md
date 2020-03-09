@@ -262,7 +262,7 @@ export default Root;
 
 - 그후 yarn build 명령어로 빌드를 진행할 경우 file을 읽을수 없다고 나온다.
 
-![image-20200309100257101](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200309100257101.png)
+![image-20200309100257101](./1.PNG)
 
 
 
@@ -331,7 +331,7 @@ module.exports = {
 ```
 
 - 아래와 같이 css가 적용된다.
-- ![image-20200309101111339](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200309101111339.png)
+- ![image-20200309101111339](./2.PNG)
 
 ## 웹팩에서 scss 사용하기
 
@@ -396,7 +396,7 @@ export default Root;
 
 ```
 
-![image-20200309111542421](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200309111542421.png)
+![image-20200309111542421](./3.PNG)
 
 - 수정사항이 발생한 경우 자동으로 빌드해주는 것을 확인할수 있다.
 
